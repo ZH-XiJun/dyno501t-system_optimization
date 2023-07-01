@@ -40,8 +40,18 @@ print_modname() {
   ui_print "$pounds"
   ui_print " $MODNAME "
   ui_print "$pounds"
+  ui_print "*******************************"
+  ui_print " Dyno501t system optimization  "
+  ui_print "*******************************"
+  ui_print """
+    __               __    __    __    __  
+   / /_  _______  __/ /_  / /_  / /_  / /_ 
+  / __ \/ ___/ / / / __ \/ __ \/ __ \/ __ \
+ / /_/ / /  / /_/ / / / / / / / / / / / / /
+/_.___/_/   \__,_/_/ /_/_/ /_/_/ /_/_/ /_/ 
+"""
   ui_print "******************************"
-  ui_print " 由 Magisk 提供技术支持(在安装模块时打印作者信息) "
+  ui_print " Powered by Magisk @topjohnwu "
   ui_print "******************************"
 }
 
