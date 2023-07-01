@@ -1,7 +1,6 @@
-# id 只能填 字母 数字 半角符号
-id=template
-name=模块模板
+id=dyno501t-system_optimization
+name=酷派dyno501t-System优化
 version=v1
 versionCode=1
-author=Pinkdoge
-description=一个简短的描述
+author=wt_bruh
+description=通过增删system分区内文件以达到优化的效果
